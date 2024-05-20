@@ -1,0 +1,12 @@
+
+.posters-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.posters-container img {
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+}
